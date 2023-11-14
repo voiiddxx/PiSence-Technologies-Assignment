@@ -9,4 +9,7 @@
 
 .homework-behaviour{
     display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 200px;
 }

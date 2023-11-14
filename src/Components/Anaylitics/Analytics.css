@@ -1,0 +1,49 @@
+.anay-main{
+    min-height: 250px;
+    min-width: 35%;
+    background-color: rgb(220, 220, 220);
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.anay-main h1{
+    font-size: 20px;
+}
+
+.detail{
+    display: flex;
+    gap: 15px;
+}
+.good-box
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+}
+.good p {
+    color: black;
+    font-weight: 500;
+}
+
+.bad-box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+}
+.good{
+    height: 50px;
+    width: 50px;
+    background-color: green;
+}
+
+.bad{
+    height: 50px;
+    width: 50px;
+    background-color: red;
+}
+

@@ -3,6 +3,7 @@ import data from "../../data (1).json"
 import "./Landing.css"
 import Attendance from '../../Components/Attendance/Attendance'
 import Homework from '../../Components/Homework/Homework'
+import Analytics from '../../Components/Anaylitics/Analytics'
 const Landing = () => {
 
   return (
@@ -12,6 +13,7 @@ const Landing = () => {
         <Attendance/>
         <div className="homework-behaviour">
             <Homework/>
+            <Analytics/>
         </div>
         </div>
     </div>
