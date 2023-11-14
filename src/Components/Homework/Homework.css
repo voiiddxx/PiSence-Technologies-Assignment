@@ -1,0 +1,28 @@
+.homeword-main{
+    margin-top: 20px;
+    height: 250px;
+    width: 30%;
+    background-color: rgb(227, 255, 251);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.homeword-main p{
+    font-size: 20px;
+    color: black;
+    font-weight: 400;
+    margin-top: 15px;
+}
+
+.work{
+    display: flex;
+    gap: 50px;
+    flex-wrap: wrap;
+    padding: 20px;
+}
+
+.work p{
+font-weight: 500;
+
+}
