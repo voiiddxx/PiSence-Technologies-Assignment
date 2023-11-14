@@ -1,0 +1,21 @@
+*{
+    margin: 0;padding: 0;
+}
+.navbar{
+    height: 8vh;
+    width: 100%;
+    background-color: rgb(193, 193, 193);
+    display: flex;
+    align-items: center;
+    
+    
+}
+
+.nav-inner{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    padding-left: 50px;
+    padding-right: 50px;
+}
